@@ -4,5 +4,5 @@
 - 调用方法
 ###优点
 - 异步执行操作
->Talk is cheap.Show you the code.Ha~
+> Talk is cheap.See code.Ha~
 
